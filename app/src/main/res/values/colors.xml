@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="blue">#00AEEF</color>
+    <color name="blue_dark">#009cd7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="purple">#522E90</color>
+    <color name="purple_status_bar">#492981</color>
+
+</resources>
